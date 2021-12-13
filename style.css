@@ -1,0 +1,13 @@
+.image{
+    width: 700px;
+    height: 700px;
+
+}
+
+.btn{
+    background-color: rgb(108, 108, 168);
+    color: chartreuse;
+    width: 100px;
+    height: 40px;
+    border-radius: 500px;
+}
